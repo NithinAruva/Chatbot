@@ -1,3 +1,4 @@
-1.Install requirement.txt file
-2.Add Gemini API key in .streamlit->secrets.toml file
-3.Run app.py by streamlit run app.py
+1.Install the requirements using the requirements.txt file.\
+2.Add the Gemini API key to the .streamlit/secrets.toml file.\
+3.Run the app using streamlit run app.py.\
+4.If you want to rerun the code, make sure to uninstall the vectorstore.index file in the folder first.
